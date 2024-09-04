@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @sauravpandey538
+- 👋 Hi coders, I’m  a nextJS and MERN stack developer.
+- 🌱 I’m currently  working as a Full-stack developer at RippleSpace.
 - 👀 I’m interested in creating memories ...
-- 🌱 I’m currently learning NextJS...
-- ⚡ Fun fact: I am so shy lol...
+- 💬 Ask me about anything...
+- ⚡ Fun fact: I even forget to eat sometimes.
 
-<!---
-sauravpandey538/sauravpandey538 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills and Technologies
+
+- Languages  : JS | TS
+- Frameworks : ReactJS | NextJS | ExpressJS | SQL | Postgrace
+- Tools      : Knex | Firebase | AWS |  Redux | Tailwind CSS | ShadCN
+
+  
