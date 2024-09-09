@@ -11,8 +11,7 @@ I'm a  Full-Stack Developer specializing in Next.js and the MERN stack.
 ## Skills and Technologies
 
 ### Languages
-- ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=white) 
-- ![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?logo=typescript&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=white) - ![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?logo=typescript&logoColor=white)
 
 ### Frameworks
 - ![React](https://img.shields.io/badge/Framework-ReactJS-61DAFB?logo=react&logoColor=white) 
