@@ -3,7 +3,7 @@
 I'm a  Full-Stack Developer specializing in Next.js and the MERN stack. 
 ## About Me
 
-- 🌱 I’m currently working as a Full-Stack Developer at RippleSpace.
+- 🌱 I’m currently working as a Full-Stack Developer at CrowdBazaar.
 - 👀 I'm deeply interested in creating memorable digital experiences and exploring innovative technologies. 
 - 💬 Feel free to ask me about anything related to web development.
 - ⚡ Fun Fact: Occasionally, I get so engrossed in coding that I forget to eat!
